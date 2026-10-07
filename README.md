@@ -9,4 +9,4 @@ Inoltre con il tasto "Attiva Lezione" è possibile attivare o disattivare un ins
 insegnamenti. Tornando al login ed accedendo come studente, sarà possibile visualizzare l'orario delle lezioni del proprio anno attivate. Mentre se si 
 fa l'accesso come docente non responsabile, sarà possibile visualizzare gli orari delle proprie lezioni e richiedere uno spostamento di una lezione.
 Tornando all'accesso con il Responsabile, potrà decidere di rifiutare o accettare lo spostamento. Nel caso di conflitto non sarò possibile 
-accettare lo spostamento.
+accettare lo spostamento. 
